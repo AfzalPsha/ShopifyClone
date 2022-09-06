@@ -13,7 +13,7 @@
 ## Time taken to finish this project
 
 - 7 hours taken to complete it.
-## Tailwind Project2 Shopify Responsive [Live Link]()
+## Tailwind Project2 Shopify Responsive [Live Link](https://shpify.netlify.app/)
 #### Preview
 
 ![Desktop](./Preview.JPG)
